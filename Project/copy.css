@@ -1,0 +1,85 @@
+.Two_one, .Two_two {
+    display: flex;
+    font-weight: 400;
+    height: 50%;
+    width: 100%;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.One_two h2{
+    color: #FFF;
+    font-family: "Helvetica";
+    font-size: 28px;
+    font-style: normal;
+
+}
+.One_two h3 {
+    color: #C4C4C4;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-style: normal;
+    text-transform: uppercase;
+}
+
+.Two_one h2 {
+    color: #FFF;
+    font-family: "Helvetica";
+    font-size: 28px;
+    font-style: normal;
+    line-height: 1.5;
+}
+.Two_one h3 {
+    color: #C4C4C4;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-style: normal;
+    text-transform: uppercase;
+}
+
+.Two_two h2 {
+    color: #FFF;
+    font-family: "Helvetica";
+    font-size: 28px;
+    font-style: normal;
+    line-height: 1.5;
+}
+.Two_two h3 {
+    color: #C4C4C4;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-style: normal;
+    text-transform: uppercase;
+}
+#One_two_text {
+    display: flex;
+    width: 17vw;
+    align-items: flex-start;
+    color: #C4C4C4;
+    font-family: "Helvetica";
+    font-size: 17px;
+    font-style: normal;
+    line-height: 1.5;
+}
+
+
+#Two_one_text {
+    color: #C4C4C4;
+    font-family: "Helvetica";
+    font-size: 18px;
+    font-style: normal;
+    line-height: 1.5;
+    display: flex;
+    align-items: flex-start;
+    width: 20vw;
+}
+
+#Two_two_text {
+    color: #C4C4C4;
+    font-family: "Helvetica";
+    font-size: 18px;
+    font-style: normal;
+    line-height: 1.5;
+    display: flex;
+    align-items: flex-start;
+    width: 20vw;
+}
